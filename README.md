@@ -2,7 +2,7 @@
 
 An AI - Powered Voice Assistant Flutter Radio App
 
-This is a Alan AI & Flutter based online radio application. I have built this by following [codepur](https://github.com/iampawan) video on it. Feel free to [subscribe](https://www.youtube.com/c/HelloCodepur) to him. 
+This is a Alan AI & Flutter based online radio application.
 
 ## Getting Started
 
