@@ -1,0 +1,117 @@
+{
+    "radios": [
+        {
+               "id": 1,
+               "name": "92.7",
+               "tagline": "Suno Sunao, Life Banao!",
+               "color": "0xffa11431",
+               "desc": "The chills you get when you listen to music, is mostly caused by the brain releasing dopamine while anticipating the peak moment of a song.",
+               "url": "https://securestreams8.autopo.st:3003/1",
+               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/m8afyszryaqt.png",
+               "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b5df4c18876369.562d0d4bd94cf.jpg",
+               "lang": "Hindi",
+               "category": "pop",
+               "disliked": false,
+               "order": 1
+           },
+           {
+               "id": 2,
+               "name": "98.3",
+               "tagline": "Radio Mirchi IT'S HOT",
+               "color": "0xff221420",
+               "desc": "Tune into India's Favourite Hindi Music Radio Station Online, Radio Mirchi 98.3 FM. Listen to latest Hindi Bollywood songs, International hits! ",
+               "url": "https://us2.internet-radio.com/proxy/vybezstation?mp=/live",
+               "icon": "https://cdn.onlineradiobox.com/img/l/6/3906.v9.png",
+               "image": "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bXVzaWMlMjB3YWxscGFwZXJ8ZW58MHx8MHx8&w=1000&q=80",
+               "lang": "Hindi",
+               "disliked": false,
+               "category": "pop",
+               "order": 2
+           },
+           {
+               "id": 3,
+               "name": "100",
+               "tagline": "Play On!",
+               "color": "0xff04080b",
+               "desc": "Playing music regularly will physically alter your brain structure.",
+               "url": "https://18103.live.streamtheworld.com/977_HITS_SC",
+               "icon": "http://db.radioline.fr/pictures/radio_1b34ac132310c975f847aed2a948a318/logo200.jpg?size=200",
+               "image": "https://www.theknotnews.com/wp-content/uploads/2017/02/Fifty-Shades-Poster.jpg",
+               "lang": "English",
+               "disliked": false,
+               "category": "trending",
+               "order": 3
+           },
+           {
+               "id": 4,
+               "name": "104",
+               "tagline": "Hip-hop Hits",
+               "color": "0xff066c53",
+               "desc": "For my G",
+               "url": "https://pureplay.cdnstream1.com/6027_128.mp3",
+               "icon": "https://i.ebayimg.com/images/g/2ykAAOSwOghfoVFp/s-l300.jpg",
+               "image": "https://i.ebayimg.com/images/g/2ykAAOSwOghfoVFp/s-l300.jpg",
+               "lang": "English",
+               "category": "hip-hop",
+               "disliked": false,
+               "order": 4
+           },
+           {
+               "id": 5,
+               "name": "104.8",
+               "tagline": "Ishq Radio",
+               "color": "0xff0d487d",
+               "desc": "Romantic Radio Station, Ishq 104.8 FM. We love to delve into and explore modern-day relationships and and how we fall in love.",
+               "url": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
+               "icon": "https://c.wallhere.com/photos/87/f1/1920x1080_px_day_love_mood_poster_Valentines-1778279.jpg!d",
+               "image": "https://c.wallhere.com/photos/87/f1/1920x1080_px_day_love_mood_poster_Valentines-1778279.jpg!d",
+               "lang": "Hindi",
+               "category": "love",
+               "disliked": false,
+               "order": 5
+           },
+           {
+               "id": 6,
+               "name": "102.2",
+               "tagline": "YOUR RELAXING MUSIC MIX",
+               "color": "0xff27383e",
+               "desc": "YOUR RELAXING MUSIC MIX from LONDON",
+               "url": "https://jenny.torontocast.com:8118/stream",
+               "icon": "https://cdn.onlineradiobox.com/img/l/4/964.v9.png",
+               "image": "https://st.depositphotos.com/1351697/3887/v/950/depositphotos_38876357-stock-illustration-retro-party-poster-design.jpg?",
+               "lang": "English",
+               "category": "retro",
+               "disliked": false,
+               "order": 6
+           },
+           {
+               "id": 7,
+               "name": "93",
+               "tagline": "for WEEBS",
+               "color": "0xffa06a37",
+               "desc": "For Anime Lovers",
+               "url": "https://japanimradio.be:8000/stream/1/",
+               "icon": "https://cdn.onlineradiobox.com/img/l/0/6280.v8.png",
+               "image": "https://img-9gag-fun.9cache.com/photo/aXYNRrb_700bwp.webp",
+               "lang": "japanese",
+               "category": "rock",
+               "disliked": false,
+               "order": 7
+           },
+           {
+               "id": 8,
+               "name": "107",
+               "tagline": "Bollywood Retro Hits",
+               "color": "0xff090909",
+               "desc": "Your heartbeat changes to mimics the music you listen to.",
+               "url": "https://stream-12.zeno.fm/g372rxef798uv?zs=Nn2kZrPYSM2a9aMFltCtPA",
+               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uvclzz6a6d7x.jpeg",
+               "image": "https://i.pinimg.com/originals/7f/f6/13/7ff613ed815f1eb56a90794ec64eecfe.jpg",
+               "lang": "Hindi",
+               "category": "classic",
+               "disliked": false,
+               "order": 8
+           }
+   ]
+   
+}
