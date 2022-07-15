@@ -1,4 +1,4 @@
-# airadio
+# Ai-Radio
 
 An AI - Powered Voice Assistant Flutter Radio App
 
